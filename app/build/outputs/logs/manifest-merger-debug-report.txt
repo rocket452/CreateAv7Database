@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+MERGED from [com.android.support:appcompat-v7:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\appcompat-v7-22.1.1.aar\853640fe77b1be60ae413e6c4f72003d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\1f545e8237d05b3c4d883958254c0233\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:4:5-7:19
+MERGED from [com.android.support:appcompat-v7:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\appcompat-v7-22.1.1.aar\853640fe77b1be60ae413e6c4f72003d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\appcompat-v7-22.1.1.aar\853640fe77b1be60ae413e6c4f72003d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\1f545e8237d05b3c4d883958254c0233\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\1f545e8237d05b3c4d883958254c0233\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:4:45-77
+	android:icon
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:5:9-43
+	android:allowBackup
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:4:18-44
+	android:theme
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml:5:44-75
+uses-sdk
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\appcompat-v7-22.1.1.aar\853640fe77b1be60ae413e6c4f72003d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\appcompat-v7-22.1.1.aar\853640fe77b1be60ae413e6c4f72003d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\1f545e8237d05b3c4d883958254c0233\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] E:\AndroidProjects\Gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\1f545e8237d05b3c4d883958254c0233\AndroidManifest.xml:20:5-43
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidProjects\CreateAv7Database\app\src\main\AndroidManifest.xml

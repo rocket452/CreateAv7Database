@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqljet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/createdatabaselib/libs/sqljet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
