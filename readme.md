@@ -1,23 +1,35 @@
-# CreateAv7Database
-A Java-based utility for processing and formatting biblical text data with support for HTML styling and database operations.
+# 📚 CreateAv7Database
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bible_Processing-4B0082?style=for-the-badge)
 
-## Overview
+> A Java-based utility for processing and formatting biblical text data with support for HTML styling and database operations.
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rocket452/CreateAv7Database/commits/master)
+
+</div>
+
+## 🎯 Overview
 CreateAv7Database is a specialized Java application designed to process and transform biblical text data into a structured database format. The project provides utilities for parsing, formatting, and storing biblical content with support for HTML styling elements and proper verse organization.
 
-## Features
-- **Text Processing**
+## ✨ Features
+### 📝 Text Processing
   - Parses structured biblical text files
   - Handles book, chapter, and verse segmentation
   - Supports special character escaping
   - Processes formatting markers for enhanced display
 
-- **Data Formatting**
+### 🎨 Data Formatting
   - HTML styling support for chapter titles and special text segments
   - Proper verse numbering and formatting
   - Support for superscript text elements
   - Custom span class implementations for styled text
 
-- **Database Operations**
+### 💾 Database Operations
   - SQLJet database integration
   - Structured data storage with fields for:
     - Book
@@ -26,21 +38,21 @@ CreateAv7Database is a specialized Java application designed to process and tran
     - Text content
   - Transaction management support
 
-## Technical Stack
-- **Language:** Java
-- **Database:** SQLJet
-- **Build System:** Gradle
+## 🛠️ Technical Stack
+- **Language:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+- **Database:** ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+- **Build System:** ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
 - **File Processing:** Java I/O Streams
 - **Text Processing:** Custom string manipulation utilities
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - Java Development Kit (JDK)
 - Gradle build tool
 - IDE with Java support (recommended)
 
-### Installation
+### 📥 Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/rocket452/CreateAv7Database.git
@@ -56,7 +68,7 @@ cd CreateAv7Database
 ./gradlew build
 ```
 
-## Usage
+## 📖 Usage
 The application processes text files containing biblical content in the following format:
 ```
 [Book]-[Chapter]:[Verse] [Text]
@@ -73,52 +85,57 @@ The program will:
 3. Generate a properly structured output file
 4. (Optional) Store the data in a SQLJet database
 
-## Project Structure
+## 📁 Project Structure
 ```
 CreateAv7Database/
-├── createdatabaselib/
-│   └── src/
-│       └── main/
-│           └── java/
-│               └── com/
-│                   └── example/
-│                       └── MyClass.java
-├── app/
-│   └── build/
-├── gradle/
-└── README.md
+├── 📂 createdatabaselib/
+│   └── 📂 src/
+│       └── 📂 main/
+│           └── 📂 java/
+│               └── 📂 com/
+│                   └── 📂 example/
+│                       └── 📜 MyClass.java
+├── 📂 app/
+│   └── 📂 build/
+├── 📂 gradle/
+└── 📜 README.md
 ```
 
-## Development
+## 💻 Development
 
 ### Text Processing Features
-- Apostrophe handling
-- HTML tag insertion for chapter titles
-- Special character processing
-- Verse number formatting
-- Custom span class implementation for styled text segments
+- 🔤 Apostrophe handling
+- 📑 HTML tag insertion for chapter titles
+- 🔣 Special character processing
+- 🔢 Verse number formatting
+- 🎯 Custom span class implementation for styled text segments
 
 ### Database Operations
-- Table creation and management
-- Transaction handling
-- Cursor-based record access
-- Proper data escaping and formatting
+- 📊 Table creation and management
+- 🔄 Transaction handling
+- 📑 Cursor-based record access
+- 🔒 Proper data escaping and formatting
 
-## Future Improvements
+## 🔮 Future Improvements
 - Add support for multiple Bible versions
 - Implement batch processing for large files
 - Add export functionality to different formats
 - Improve error handling and logging
 - Add unit tests for core functionality
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 This project is licensed under standard open-source terms. See the LICENSE file for details.
 
-## Author
+## 👨‍💻 Author
 [rocket452](https://github.com/rocket452)
 
 ---
-*Note: This project is part of a larger Bible application development effort. For related projects, see [AV7BibleAppv4](https://github.com/rocket452/AV7BibleAppv4).*
+<div align="center">
+
+*Note: This project is part of a larger Bible application development effort.*  
+*For related projects, see [AV7BibleAppv4](https://github.com/rocket452/AV7BibleAppv4)*
+
+</div>
