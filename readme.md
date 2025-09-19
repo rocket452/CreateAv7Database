@@ -9,7 +9,6 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rocket452/CreateAv7Database/commits/master)
 
 </div>
 
